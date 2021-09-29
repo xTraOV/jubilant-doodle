@@ -1,7 +1,7 @@
-@media (max-width: 376px) {
+@media (max-width: 450px) {
     .content {
         height: 700px;
-        width: 375px;
+        width: 100%;
         justify-content: center;
         align-items: center;
     }
