@@ -1,0 +1,18 @@
+@media (max-width: 376px) {
+    .content {
+        height: 700px;
+        width: 375px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        height: 560px;
+        width: 340px;
+    }
+
+    .illustrationhero {
+        width: 340px;
+    }
+
+}
